@@ -3,3 +3,5 @@
 
 
 langchain-core==0.3.60
+
+![alt text](<image/01 why leaning langchain.png>)
