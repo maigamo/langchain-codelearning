@@ -1,4 +1,7 @@
 
+
+![alt text](04-1.png)
+
 一个典型langchain的使用流程：
 ```python
 from langchain.llms import OpenAI
